@@ -42,7 +42,7 @@ body{
 }
 .img2{
     width: 160px;
-    height: 160px
+    height: 160px;
     border-radius: 10px;
     filter: drop-shadow(0 0 1rem #8D0CA1);
     border-radius: 60%;
@@ -244,11 +244,11 @@ li{
     .button22{
         margin-left:400px;
         font-size:33px;
-        width:70%;
+        width:80%;
     }
     .button21{
         margin-left:50px;
-        font-size:33px;
+        font-size:43px;
         width:100%;
     }
     .paperpres{
